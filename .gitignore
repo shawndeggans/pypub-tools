@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# larger audio and video files
+*.mp3
+*.mp4
+*.avi
+*.mpeg
+*.mpg
+*.mov
+*.qt
+*.wav
